@@ -45,8 +45,8 @@ Busco constantemente aplicar os conceitos teóricos da faculdade em projetos pr�
 
 ### 📈 Minhas Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Davi-Felinto]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Davi-Felinto]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Felinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Felinto&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
@@ -55,6 +55,5 @@ Busco constantemente aplicar os conceitos teóricos da faculdade em projetos pr�
 Estou sempre aberto a trocar ideias sobre tecnologia, projetos da faculdade e oportunidades de estágio!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LINKEDIN_URL]
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifd0978@gmail.com)
 
-[LINKEDIN_URL]: https://www.linkedin.com/in/davi-felinto/
+[LINKEDIN_URL]: https://www.linkedin.com/in/davi-felinto-b559a3212/?skipRedirect=true
