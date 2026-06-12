@@ -36,10 +36,17 @@ Busco constantemente aplicar os conceitos teóricos da faculdade em projetos pr�
 
 ---
 
+### 📁 O que você vai encontrar por aqui?
+* **Exercícios de Lógica:** Scripts em Python resolvendo problemas de algoritmos, estruturas condicionais e de repetição.
+* **Projetos de Banco de Dados:** Modelagens de dados, scripts de criação de tabelas (`DDL`) e queries complexas de consulta (`DML`) usando MySQL.
+* **Projetos Acadêmicos:** Trabalhos e desafios desenvolvidos durante a graduação no CEUB.
+
+---
+
 ### 📈 Minhas Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Felinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Felinto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Davi-Felinto]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Davi-Felinto]&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
@@ -47,7 +54,7 @@ Busco constantemente aplicar os conceitos teóricos da faculdade em projetos pr�
 ### 📫 Vamos nos conectar?
 Estou sempre aberto a trocar ideias sobre tecnologia, projetos da faculdade e oportunidades de estágio!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/davi-felinto-b559a3212/?skipRedirect=true
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davi.felinto@sempreceub.com])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LINKEDIN_URL]
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifd0978@gmail.com)
 
-[LINKEDIN_URL]: [https://www.linkedin.com/in/[seu-usuario-linkedin]/](https://www.linkedin.com/in/davi-felinto-b559a3212/?skipRedirect=true)
+[LINKEDIN_URL]: https://www.linkedin.com/in/davi-felinto/
