@@ -43,14 +43,6 @@ Busco constantemente aplicar os conceitos teóricos da faculdade em projetos pr�
 
 ---
 
-### 📈 Minhas Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Felinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Felinto&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 Estou sempre aberto a trocar ideias sobre tecnologia, projetos da faculdade e oportunidades de estágio!
 
