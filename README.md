@@ -36,13 +36,6 @@ Busco constantemente aplicar os conceitos teóricos da faculdade em projetos pr�
 
 ---
 
-### 📁 O que você vai encontrar por aqui?
-* **Exercícios de Lógica:** Scripts em Python resolvendo problemas de algoritmos, estruturas condicionais e de repetição.
-* **Projetos de Banco de Dados:** Modelagens de dados, scripts de criação de tabelas (`DDL`) e queries complexas de consulta (`DML`) usando MySQL.
-* **Projetos Acadêmicos:** Trabalhos e desafios desenvolvidos durante a graduação no CEUB.
-
----
-
 ### 📫 Vamos nos conectar?
 Estou sempre aberto a trocar ideias sobre tecnologia, projetos da faculdade e oportunidades de estágio!
 
